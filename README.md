@@ -1,6 +1,6 @@
 Live demo : https://welth-tan.vercel.app/
 
-# 💰 AI Finance Platform
+# 💰 AI Spending Insights Platform
 
 An AI-powered personal finance management platform built with **Next.js 15**, **React 19**, **Supabase**, **Prisma**, **Clerk**, **Tailwind CSS**, **Shadcn UI**, **Inngest**, and **Arcjet**. The platform helps users manage accounts, track income and expenses, scan receipts using AI, monitor budgets, and receive automated financial insights.
 
